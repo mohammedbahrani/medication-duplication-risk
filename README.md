@@ -1,7 +1,3 @@
-# medication-duplication-risk
-Analysis of medication duplication patterns in fragmented healthcare systems using synthetic EHR data
-# Medication Duplication Risk Analysis
-
 ## Overview
 Analysis of medication duplication risk when healthcare facilities cannot 
 exchange patient medication histories. Uses synthetic EHR data to identify 
