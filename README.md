@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 ## Overview
 Analysis of medication duplication risk when healthcare facilities cannot 
 exchange patient medication histories. Uses synthetic EHR data to identify 
