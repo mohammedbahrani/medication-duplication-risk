@@ -28,3 +28,15 @@ quantifies that risk through data analysis.
 🚧 **In Development** - Analysis framework complete, preparing final visualizations
 
 ## Repository Structure
+├── data/ # Synthetic EHR samples
+├── notebooks/ # Jupyter analysis notebooks
+├── figures/ # Generated visualizations
+└── README.md
+
+## Author
+Mohammed Al Bahrani  
+PharmD | Pharmacist  
+Aspiring Health Informatics Graduate Student
+
+## License
+MIT License
