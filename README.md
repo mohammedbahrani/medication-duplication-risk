@@ -63,14 +63,23 @@ As a hospital pharmacist, I observed how fragmented health information creates p
 
 medication-duplication-risk/
 ├── data/
+
 │ └── # Synthetic EHR samples
+
 ├── figures/
+
 │ ├── fragmentation_distribution.png
+
 │ └── facility_transitions.png
+
 ├── notebooks/
+
 │ └── medication_duplication_analysis.ipynb
+
 ├── README.md
+
 ├── .gitignore
+
 └── LICENSE
 
 
