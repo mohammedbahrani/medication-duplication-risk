@@ -61,11 +61,13 @@ As a hospital pharmacist, I observed how fragmented health information creates p
 
 ## Repository Structure
 
-├── data/ # Synthetic EHR data
-├── figures/ # Generated visualizations
+medication-duplication-risk/
+├── data/
+│ └── # Synthetic EHR samples
+├── figures/
 │ ├── fragmentation_distribution.png
 │ └── facility_transitions.png
-├── notebooks/ # Analysis notebooks
+├── notebooks/
 │ └── medication_duplication_analysis.ipynb
 ├── README.md
 ├── .gitignore
